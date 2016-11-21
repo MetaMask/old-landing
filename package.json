@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/MetaMask/metamask_io#readme",
   "dependencies": {
-    "metamask-logo": "^1.1.5"
+    "metamask-logo": "^2.1.3"
   }
 }
